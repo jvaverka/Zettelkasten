@@ -28,7 +28,7 @@
                 text = ''
                   set -xe
                   export PORT="''${EMANOTE_PORT:-7072}"
-                  cd ./content && ${emanote.defaultPackage.${system}}/bin/emanote run --port "$PORT"
+                  cd ./zettels && ${emanote.defaultPackage.${system}}/bin/emanote run --port "$PORT"
                 '';
               };
               program = "${script}/bin/emanoteRun.sh";
@@ -52,7 +52,7 @@
                 ''
                   mkdir $out
                   ${emanote.defaultPackage.${system}}/bin/emanote \
-                  --layers "${configDir};${self}/content" \
+                  --layers "${configDir};${self}/zettels" \
                     gen $out
                 '';
           };
