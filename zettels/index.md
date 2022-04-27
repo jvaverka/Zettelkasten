@@ -2,4 +2,4 @@
 
 ## New Note
 
-Link to a [[Brand New Note]]#
+Link to a [[brand-new-note]]]#
