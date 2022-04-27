@@ -13,7 +13,7 @@ language = "en"
 default-title = "Untitled"
 
 # Template used to generate a note's filename, without extension.
-filename = "{{id}}-{{slug title}}"
+filename = "{{slug title}}"
 
 # The file extension used for the notes.
 extension = "md"
@@ -91,7 +91,7 @@ template = "journal.md"
 [group.test]
 paths = ["Test"]
 [group.test.note]
-filename = "{{id}}"
+filename = "{{title}}"
 extension = "md"
 template = "test.md"
 
@@ -101,7 +101,7 @@ template = "test.md"
 
 # Format used to generate links between notes.
 # Either "wiki", "markdown" or a custom template. Default is "markdown".
-link-format = "markdown"
+link-format = "[[{{title}}]]"
 # Indicates whether a link's path will be percent-encoded.
 # Defaults to true for "markdown" format and false for "wiki" format.
 link-encode-path = false

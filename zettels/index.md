@@ -2,5 +2,4 @@
 
 ## New Note
 
-[[dae4a306-new-note-test|New Note Test]]
-
+Link to a [[Brand New Note]]#
