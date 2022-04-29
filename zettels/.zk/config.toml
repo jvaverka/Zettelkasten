@@ -1,10 +1,7 @@
 [extra]
-
 author = "Jacob"
 
-
 [format.markdown]
-
 link-format = "[[{{rel-path}}|{{title}}]]"
 link-encode-path = false
 link-drop-extension = true
@@ -12,11 +9,41 @@ hashtags = true
 colon-tags = false
 multiword-tags = true
 
+# Literature Group
+# -------------------
+[group.lit]
+paths = ["Literature"]
+
+[group.lit.note]
+filename = "{{id}}"
+extension = "md"
+template = "default.md"
+
+# Mathematics Group
+# -------------------
+[group.math]
+paths = ["Mathematics"]
+
+[group.math.note]
+filename = "{{id}}"
+extension = "md"
+template = "default.md"
+
+# Technology Group
+# -------------------
+[group.tech]
+paths = ["Technology"]
+
+[group.tech.note]
+filename = "{{id}}"
+extension = "md"
+template = "default.md"
 
 [tool]
-
 pager = ""
 
 [alias]
-
 home = 'zk edit $ZK_NOTEBOOK_DIR/index.md'
+lit = 'zk new --no-input "$ZK_NOTEBOOK_DIR/Literature"'
+math = 'zk new --no-input "$ZK_NOTEBOOK_DIR/Mathematics"'
+tech = 'zk new --no-input "$ZK_NOTEBOOK_DIR/Technology"'
