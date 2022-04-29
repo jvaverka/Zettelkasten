@@ -1,3 +1,3 @@
 # Hello
 
-Can I link to a folder? [[-/Journal]]
+Can I link to a folder? [[Journal]]#
