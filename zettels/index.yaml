@@ -13,7 +13,7 @@ template:
       containerClass: container mx-auto max-w-screen-lg
 
   sidebar:
-    collapsed: true
+    collapsed: false
 
   # If you are hosting on GitLab Pages, you may want to remove this.
   urlStrategy: pretty
