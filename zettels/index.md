@@ -16,4 +16,4 @@ Creating this knowledge base is possible thanks to 3 great tools:
 
 ## Branches
 
-- [[Journal]]#
+- [[Journal/Journal|Journal]]#
