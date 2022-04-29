@@ -1,6 +1,3 @@
 # Hello
 
-## New Note
-
-Link to a [[brand-new-note|Different Note]]#
-
+Can I link to a folder? [[-/Journal]]
