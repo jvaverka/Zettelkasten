@@ -7,7 +7,7 @@ Exploring this tree structure hopefully leads to new discoveries and insights.
 
 ## Tools
 
-There are 3 key components to create this:
+Creating this knowledge base is possible thanks to 3 great tools:
 
 1. [Emanote](https://emanote.srid.ca/) - spiritual successor to [Neuron](https://neuron.zettel.page/)
 1. [zk](https://github.com/mickael-menu/zk) - plain text note-taking assistant
