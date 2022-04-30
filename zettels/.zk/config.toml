@@ -44,6 +44,6 @@ pager = ""
 
 [alias]
 home = 'zk edit $ZK_NOTEBOOK_DIR/index.md'
-lit = 'zk new --no-input "$ZK_NOTEBOOK_DIR/Literature"'
-math = 'zk new --no-input "$ZK_NOTEBOOK_DIR/Mathematics"'
-tech = 'zk new --no-input "$ZK_NOTEBOOK_DIR/Technology"'
+lit = 'zk new --group lit --title "$*"'
+math = 'zk new --group math --title "$*"'
+tech = 'zk new --group tech --title "$*"'

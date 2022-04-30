@@ -1,4 +1,4 @@
-# :robot_face: Technology
+# :robot: Technology
 
 > It's still magic even if you know how it's done.
 >

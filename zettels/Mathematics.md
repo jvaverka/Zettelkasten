@@ -1,4 +1,4 @@
-# :black_large_square: Mathematics
+# :abacus: Mathematics
 
 > Pure mathematics is, in its way, the poetry of logical ideas.
 >
