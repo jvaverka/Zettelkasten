@@ -21,6 +21,3 @@ Creating this knowledge base is possible thanks to 3 great tools:
 - [[Mathematics|Mathematics]]#
 - [[Technology|Technology]]#
 
-## Test
-
-[[-/tags/julia/*]]
