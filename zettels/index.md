@@ -16,4 +16,7 @@ Creating this knowledge base is possible thanks to 3 great tools:
 
 ## Branches
 
-- [[Journal|:notebook: Journal]]#
+- [[Journal|Journal]]#
+- [[Literature|Literature]]#
+- [[Mathematics|Mathematics]]#
+- [[Technology|Technology]]#
