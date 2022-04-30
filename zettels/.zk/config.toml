@@ -43,7 +43,7 @@ template = "default.md"
 pager = ""
 
 [alias]
-home = 'zk edit $ZK_NOTEBOOK_DIR/index.md'
-lit = 'zk new --group lit --title "$*"'
-math = 'zk new --group math --title "$*"'
-tech = 'zk new --group tech --title "$*"'
+root = 'zk edit $ZK_NOTEBOOK_DIR/index.md'
+lit = 'zk new "$ZK_NOTEBOOK_DIR/Literature" --title "$*"'
+math = 'zk new "$ZK_NOTEBOOK_DIR/Mathematics" --title "$*"'
+tech = 'zk new "$ZK_NOTEBOOK_DIR/Technology" --title "$*"'
