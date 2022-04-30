@@ -23,4 +23,4 @@ Creating this knowledge base is possible thanks to 3 great tools:
 
 ## Test
 
-[[-/tags/julia]]#
+[[-/tags/julia/*]]
