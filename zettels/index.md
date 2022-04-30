@@ -24,3 +24,5 @@ Creating this knowledge base is possible thanks to 3 great tools:
 ## Test
 
 [[z:zettels?tag=julia]]#
+
+[[-/tags/julia]]#
