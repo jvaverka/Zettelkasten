@@ -1,4 +1,4 @@
-# Root
+# :seedling: Root
 
 Welcome to my zettlekasten and the uʍop-ǝpᴉsdn root of this tree.
 Each node is a note I have accrued in my pursuit of knowledge in various topics.
