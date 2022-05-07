@@ -1,6 +1,6 @@
 # Investment Science
 
-#julia
+#math
 #money
 
 ## Packages

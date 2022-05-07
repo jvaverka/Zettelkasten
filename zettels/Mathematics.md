@@ -5,5 +5,5 @@
 > --- [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein)
 
 ```query
-tag:sciml
+tag:math
 ```

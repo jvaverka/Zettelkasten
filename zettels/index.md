@@ -1,8 +1,8 @@
-# :seedling: Root
+# :house_with_garden: Home
 
-Welcome to my zettlekasten and the uʍop-ǝpᴉsdn root of this tree.
-Each node is a note I have accrued in my pursuit of knowledge in various topics.
-Each branch represents a collection of related notes.
+Welcome to the home page of my zettlekasten!
+Each note is a stepping-stone in my pursuit of knowledge in various topics.
+The zettlekasten as a whole represents my journey on this pursuit.
 Exploring this tree structure hopefully leads to new discoveries and insights.
 
 ## Tools

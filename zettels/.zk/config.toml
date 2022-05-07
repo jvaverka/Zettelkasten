@@ -9,41 +9,8 @@ hashtags = true
 colon-tags = false
 multiword-tags = true
 
-# Literature Group
-# -------------------
-[group.lit]
-paths = ["Literature"]
-
-[group.lit.note]
-filename = "{{id}}"
-extension = "md"
-template = "default.md"
-
-# Mathematics Group
-# -------------------
-[group.math]
-paths = ["Mathematics"]
-
-[group.math.note]
-filename = "{{id}}"
-extension = "md"
-template = "default.md"
-
-# Technology Group
-# -------------------
-[group.tech]
-paths = ["Technology"]
-
-[group.tech.note]
-filename = "{{id}}"
-extension = "md"
-template = "default.md"
-
 [tool]
 pager = ""
 
 [alias]
-root = 'zk edit $ZK_NOTEBOOK_DIR/index.md'
-lit = 'zk new "$ZK_NOTEBOOK_DIR/Literature" --title "$*"'
-math = 'zk new "$ZK_NOTEBOOK_DIR/Mathematics" --title "$*"'
-tech = 'zk new "$ZK_NOTEBOOK_DIR/Technology" --title "$*"'
+home = 'zk edit $ZK_NOTEBOOK_DIR/index.md'

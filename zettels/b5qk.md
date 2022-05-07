@@ -1,7 +1,7 @@
 # Sherlock Game
 
-#julia
 #game
+#tech
 
 ## Description
 

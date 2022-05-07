@@ -4,6 +4,7 @@
 >
 > --- [Terry Pratchett](https://en.wikipedia.org/wiki/Terry_Pratchett)
 
+
 ```query
-path:./*
+tag:tech
 ```
