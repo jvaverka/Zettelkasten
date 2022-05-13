@@ -12,4 +12,4 @@ All in an effort to solve the next case!
 ## Related
 
 - [Cases](https://wikimili.com/en/List_of_time_and_places_in_cases_of_Sherlock_Holmes)
-
+- [JuliaTutor.jl](https://github.com/caseykneale/JuliaTutor.jl)
