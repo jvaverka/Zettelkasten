@@ -20,6 +20,7 @@
 - [ ] Why Graph Computing is STELLAR - [link](https://www.juliustech.co/blog/why-graph-computing-is-stellar)
 - [ ] Simulation-Based Inference - [link](https://astroautomata.com/blog/simulation-based-inference/)
 - [ ] Julia to Solve Climate Change - [link](https://logankilpatrick.medium.com/julia-the-little-known-programming-language-that-might-be-the-key-to-understanding-climate-change-ff91be18973a)
+- [ ] [[9k7r|Analyzing Lichess puzzles database with Bogumil Kaminski]]
 
 ## Fun
 
