@@ -18,6 +18,8 @@
 - [ ] Introduction to Regression - [link](https://www.joshuapkeller.com/page/introregression/)
 - [ ] linked list, good taste - [link](https://github.com/mkirchner/linked-list-good-taste)
 - [ ] Why Graph Computing is STELLAR - [link](https://www.juliustech.co/blog/why-graph-computing-is-stellar)
+- [ ] Simulation-Based Inference - [link](https://astroautomata.com/blog/simulation-based-inference/)
+- [ ] Julia to Solve Climate Change - [link](https://logankilpatrick.medium.com/julia-the-little-known-programming-language-that-might-be-the-key-to-understanding-climate-change-ff91be18973a)
 
 ## Fun
 
