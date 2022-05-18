@@ -5,5 +5,5 @@
 
 Notes and thoughts on the [YouTube
 Playlist](https://www.youtube.com/channel/UCDtsHjkOEMHYPGgpKX8VOPg)
-accompanying `book.sciml.ai` and the #[[Technology|Technology]] enabling new
-scientific discovery.
+accompanying `book.sciml.ai` and the #[[Technology]] enabling new scientific
+discovery.
