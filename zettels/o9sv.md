@@ -2,7 +2,7 @@
 
 #math
 
-> In mathematics, a **differential equation** is an equation that relates one
+> In #[[Mathematics]], a **differential equation** is an equation that relates one
 > or more unknown functions and their derivatives[^wiki].
 
 We puny humans use **functions** to represent physical quantities or phenomena,
