@@ -23,7 +23,7 @@
     <meta name='generator' content='Emanote' />
 
   
-  <link href='tailwind.css?instanceId=dbc7e66f-0711-4407-830b-f44c756db97b' rel='stylesheet' type='text/css' />
+  <link href='tailwind.css?instanceId=9da1b519-aeeb-4fcc-9775-e1199867fffa' rel='stylesheet' type='text/css' />
 
   <!-- Heist error element -->
   <style type='text/css'>
@@ -124,7 +124,14 @@
     </p>
   
     <p class='mb-3'>
-      Tips from the fantastic blog of Dr. Yorgey[^yorgey].
+      Tips from the fantastic blog of Dr. Yorgey
+    <!-- DoNotFormat -->
+    <!-- We use JavaScript because anchor links won't work if there is a <base> tag;
+         see https://stackoverflow.com/a/34765348 
+    -->
+    <sup class='px-0.5'><a class='text-yellow-600 hover:underline' href='javascript:;' onclick="document.location.hash='#fn1';">1</a></sup>
+    <!-- DoNotFormat -->
+  .
     </p>
   
     <ul class='my-3 ml-6 space-y-1 list-decimal list-inside'>
@@ -171,6 +178,20 @@
       
     </ul>
   
+    <div title='Footnotes' class='pt-2 mt-8 space-y-1 text-gray-500 transform scale-x-90 border-t-2'>
+      <header class='font-semibold'>Footnotes</header>
+      
+        <div id='fn1'>
+          <header class='italic'>
+            1.
+          </header>
+          <div class='inline-block mb-2 ml-4'>
+            <a href='http://ozark.hendrix.edu/~yorgey/students.html' class='text-yellow-600 hover:underline' target='_blank' rel='noopener'>http://ozark.hendrix.edu/~yorgey/students.html</a>
+          </div>
+        </div>
+      
+    </div>
+  
   <div class='flex items-center justify-center mt-2'>
   <a class='text-gray-300 hover:text-yellow-600 text-sm' title='Edit this page on GitHub' href='https://github.com/jvaverka/Zettelkasten/edit/master/zettels/7ayb.md'>
     <svg xmlns='http://www.w3.org/2000/svg' class='h-6 w-6' fill='none' viewBox='0 0 24 24' stroke='currentColor'>
@@ -183,6 +204,28 @@
               <div class='flex flex-col lg:flex-row lg:space-x-2'>
                 
                 
+  <div class='flex-1 p-4 mt-8 bg-gray-100 rounded'>
+    <header class='mb-2 text-xl font-semibold text-gray-500'>Links to this page</header>
+    <ul class='space-y-1'>
+      
+        <li>
+          <a class='text-yellow-600 mavenLinkBold hover:bg-yellow-50' href='u3ia'>
+            Spaceship You
+          </a>
+          
+            <div class='mb-4 overflow-auto text-sm text-gray-500'>
+  
+    <div class='pl-2 mt-2 border-l-2 border-yellow-200 hover:border-yellow-500'>
+      <div><p>Found while reading tips on <a href='7ayb' class='text-gray-600 font-bold hover:bg-gray-50' data-wikilink-type='WikiLinkTag'>Begin a Successful Remote Learner</a>.</p></div>
+    </div>
+  
+</div>
+          
+        </li>
+      
+    </ul>
+  </div>
+
               </div>
               
   <section class='flex flex-wrap items-end justify-center my-4 space-x-2 space-y-2 font-mono text-sm'>
