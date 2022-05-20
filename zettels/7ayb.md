@@ -16,4 +16,4 @@ Tips from the fantastic blog of Dr. Yorgey[^yorgey].
 1. Find a mentor
 1. Find more mentors
 
-[yorgey]: http://ozark.hendrix.edu/~yorgey/students.html
+[^yorgey]: http://ozark.hendrix.edu/~yorgey/students.html

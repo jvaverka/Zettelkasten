@@ -89,4 +89,8 @@ This station is vital to keeping the **Mental** core primed.
     thereby shaping your ideal environment to help accomplish the mission.
     Keeping this space clean, preped, and dedicated to creation alone is vital.
 
-[yt]: https://www.youtube.com/watch?v=snAhsXyO3Ck
+## Related
+
+Found while reading tips on #[[7ayb|Begin a Successful Remote Learner]].
+
+[^yt]: https://www.youtube.com/watch?v=snAhsXyO3Ck
