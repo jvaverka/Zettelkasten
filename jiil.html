@@ -8,15 +8,15 @@
   <meta charset='UTF-8' />
   <meta name='viewport' content='width=device-width, initial-scale=1' />
   <title>
-    April 19, 2022 – Zettelkasten
+    Julia Koans – Zettelkasten
   </title>
   
     
-      <meta property='og:description' content='What did I do today?' />
+      <meta property='og:description' content='#game #tech' />
       <meta property='og:site_name' content='Zettelkasten' />
       <meta property='og:image' content />
       <meta property='og:type' content='website' />
-      <meta property='og:title' content='April 19, 2022' />
+      <meta property='og:title' content='Julia Koans' />
     
     
       <base href='/Zettelkasten/' />
@@ -97,41 +97,11 @@
             <li>
 
   <div class='text-gray-900 forest-link'>
-    <a href='Journal/Daily'>
-      Daily
-    </a>
-  </div>
-
-  
-    <ul>
-      
-        <li>
-
-  <div class='text-gray-900 forest-link'>
-    <a href='Journal'>
-      <span class='emoji' data-emoji='notebook' style='font-family: emoji'>📓</span> Journal
-    </a>
-  </div>
-
-  
-    <ul>
-      
-        <li>
-
-  <div class='text-gray-900 forest-link'>
     <a href=''>
       <span class='emoji' data-emoji='house_with_garden' style='font-family: emoji'>🏡</span> Home
     </a>
   </div>
 
-  
-</li>
-      
-    </ul>
-  
-</li>
-      
-    </ul>
   
 </li>
           
@@ -145,38 +115,53 @@
             <main class='px-4 py-4'>
               <h1 class='flex items-end justify-center mb-4 p-3 bg-yellow-100 text-5xl font-extrabold text-black rounded'>
   <a class='z-40 tracking-tighter '>
-    April 19, 2022
+    Julia Koans
   </a>
 </h1>
               <article class='overflow-auto'>
   <!-- What goes in this file will appear on top of note body-->
   
     <p class='mb-3'>
-      What did I do today?
+      <span class='font-bold bg-gray-100 py-0.5 px-2 rounded-lg emanote:inline-tag:game' title='Tag' data-tag='game'><a href='-/tags/game' title='Tag' class='text-yellow-600 mavenLinkBold hover:underline'>#game</a></span> <span class='font-bold bg-gray-100 py-0.5 px-2 rounded-lg emanote:inline-tag:tech' title='Tag' data-tag='tech'><a href='-/tags/tech' title='Tag' class='text-yellow-600 mavenLinkBold hover:underline'>#tech</a></span>
     </p>
   
-    <ul class='my-3 ml-6 space-y-1 list-disc'>
+    <blockquote class='py-0.5 px-4 mb-3 italic border-l-4 bg-gray-50 text-gray-600 border-gray-400 quote'>
       
-        <li>
-          Submitted withdrawal form to Johns Hopkins
-        </li>
+    <p class='mb-3'>
+      The Koans walk you along the path to enlightenment in order to learn Julia. The goal is to learn the Julia language, syntax, structure, and some common functions and libraries. We also teach you culture. Testing is not just something we pay lip service to, but something we live. It is essential in your quest to learn and do great things in the language.
+    <!-- DoNotFormat -->
+    <!-- We use JavaScript because anchor links won't work if there is a <base> tag;
+         see https://stackoverflow.com/a/34765348 
+    -->
+    <sup class='px-0.5'><a class='text-yellow-600 hover:underline' href='javascript:;' onclick="document.location.hash='#fn1';">1</a></sup>
+    <!-- DoNotFormat -->
+  
+    </p>
+  
+    </blockquote>
+  <h2 id='usage' class='inline-block mt-6 mb-4 text-4xl font-bold text-gray-700 border-b-2'>Usage</h2>
+    <p class='mb-3'>
+      Maybe use <code class='py-0.5 px-0.5 bg-gray-100'>Term.jl</code>?
+    </p>
+  <div class='py-0.5 mb-3 text-sm'><pre><code class='julia language-julia'>using Pkg
+Pkg.add("Koans")
+Koans.enlighten()</code></pre></div>
+    <div title='Footnotes' class='pt-2 mt-8 space-y-1 text-gray-500 transform scale-x-90 border-t-2'>
+      <header class='font-semibold'>Footnotes</header>
       
-        <li>
-          Spoke with Mom about family and faith
-        </li>
+        <div id='fn1'>
+          <header class='italic'>
+            1.
+          </header>
+          <div class='inline-block mb-2 ml-4'>
+            <a href='http://rubykoans.com/' class='text-yellow-600 hover:underline' target='_blank' rel='noopener'>http://rubykoans.com/</a>
+          </div>
+        </div>
       
-        <li>
-          Listened to my wife sing Amazing Grace
-        </li>
-      
-        <li>
-          Read Dune
-        </li>
-      
-    </ul>
+    </div>
   
   <div class='flex items-center justify-center mt-2'>
-  <a class='text-gray-300 hover:text-yellow-600 text-sm' title='Edit this page on GitHub' href='https://github.com/jvaverka/Zettelkasten/edit/master/zettels/Journal/Daily/2022-04-19.md'>
+  <a class='text-gray-300 hover:text-yellow-600 text-sm' title='Edit this page on GitHub' href='https://github.com/jvaverka/Zettelkasten/edit/master/zettels/jiil.md'>
     <svg xmlns='http://www.w3.org/2000/svg' class='h-6 w-6' fill='none' viewBox='0 0 24 24' stroke='currentColor'>
       <path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z'></path>
     </svg>
@@ -190,6 +175,24 @@
               </div>
               
   <section class='flex flex-wrap items-end justify-center my-4 space-x-2 space-y-2 font-mono text-sm'>
+    
+      <!-- FIXME: The use of -/tags is wrong, because we should use routeUrl using Ema's encoder 
+        Perhaps Emanote should inject tagMetas with urls.
+      -->
+      <a title='Tag' class='px-1 bg-gray-100 rounded hover:bg-gray-50 hover:text-yellow-500' href='-/tags/game'>
+        <!-- DoNotFormat -->
+        #game
+        <!-- DoNotFormat -->
+      </a>
+    
+      <!-- FIXME: The use of -/tags is wrong, because we should use routeUrl using Ema's encoder 
+        Perhaps Emanote should inject tagMetas with urls.
+      -->
+      <a title='Tag' class='px-1 bg-gray-100 rounded hover:bg-gray-50 hover:text-yellow-500' href='-/tags/tech'>
+        <!-- DoNotFormat -->
+        #tech
+        <!-- DoNotFormat -->
+      </a>
     
   </section>
 
