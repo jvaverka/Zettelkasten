@@ -72,7 +72,7 @@ Purpose: achieve a positive feedback loop in which:
 - You positively affect your environment
 - Your environment positively affects you
 
-## Scope of Creation
+### Scope of Creation
 
 Ultimately, the scope of **Creation** is everything you have the power to affect.
 _You_ are included in this scope.
