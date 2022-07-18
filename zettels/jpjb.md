@@ -9,4 +9,4 @@ build pipelines and release cycles.
 Quick summaries and the full specification can be found on the organization
 website[^cc].
 
-[^cc]: https://www.conventionalcommits.org/en/v1.0.0/
+[^cc]: [Conventional Commits Org](https://www.conventionalcommits.org/en/v1.0.0/)

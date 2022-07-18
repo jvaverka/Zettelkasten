@@ -28,4 +28,4 @@ LanguageServer.mark_errors(f, f.diagnostics)
 foreach(println, f.diagnostics)
 ```
 
-[^gist]: https://gist.github.com/pfitzseb/22493b0214276d3b65833232aa94bf11
+[^gist]: [lint_me.jl](https://gist.github.com/pfitzseb/22493b0214276d3b65833232aa94bf11)

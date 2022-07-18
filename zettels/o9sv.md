@@ -16,4 +16,4 @@ and properties of solutions.
 When [[a786|Closed-Form Expression]] are not available solutions may be
 approximated numerically.
 
-[^wiki]: https://en.wikipedia.org/wiki/Differential_equation
+[^wiki]: [DiffEq Wiki](https://en.wikipedia.org/wiki/Differential_equation)

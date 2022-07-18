@@ -6,4 +6,4 @@
 > #[[o9sv|Differential Equation]] containing one or more functions of one
 > independent variable and the derivatives of those functions[^wiki].
 
-[^wiki]: https://en.wikipedia.org/wiki/Ordinary_differential_equation
+[^wiki]: [ODE Wiki](https://en.wikipedia.org/wiki/Ordinary_differential_equation)

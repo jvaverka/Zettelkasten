@@ -19,4 +19,4 @@ Pkg.add("Koans")
 Koans.enlighten()
 ```
 
-[^rb]: http://rubykoans.com/
+[^rb]: [Ruby Koans](http://rubykoans.com/)

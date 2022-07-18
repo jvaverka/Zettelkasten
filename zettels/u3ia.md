@@ -93,4 +93,4 @@ This station is vital to keeping the **Mental** core primed.
 
 Found while reading tips on #[[7ayb|Begin a Successful Remote Learner]].
 
-[^yt]: https://www.youtube.com/watch?v=snAhsXyO3Ck
+[^yt]: [Spaceship You](https://www.youtube.com/watch?v=snAhsXyO3Ck)
